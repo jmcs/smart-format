@@ -1,6 +1,3 @@
-# smart-format
-Smart formatter for CLI applications
-
 Smart Format
 ============
 
